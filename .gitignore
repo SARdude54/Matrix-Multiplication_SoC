@@ -14,17 +14,17 @@
 *.pb
 *.wdb
 
-# Generated implementation files
+# Generated implementation outputs
 *.bit
 *.bin
 *.ltx
 *.dcp
 
-# Simulation/generated data
+# Simulation outputs
 *.vcd
 *.fst
 
-# OS/editor junk
+# Editor / OS
 *~
 *.swp
 *.swo
