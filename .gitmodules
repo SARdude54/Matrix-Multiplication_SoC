@@ -1,0 +1,6 @@
+[submodule "third_party/ibex"]
+	path = third_party/ibex
+	url = https://github.com/lowRISC/ibex.git
+[submodule "third_party/ibex-demo-system"]
+	path = third_party/ibex-demo-system
+	url = https://github.com/lowRISC/ibex-demo-system.git
